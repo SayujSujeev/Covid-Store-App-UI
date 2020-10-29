@@ -9,7 +9,7 @@ Covid Store app UI using flutter,This project consist of two Screens. Home Scree
 
 If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
-### Drink Order App UI
+### Covid Store App UI
 
 ![App UI](/covidallscr.png)
 ![App UI](/covidthumb.png)
