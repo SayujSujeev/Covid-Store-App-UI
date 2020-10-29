@@ -3,7 +3,7 @@
 ## [Watch it on YouTube]()
 
 
-Drink Order app UI using flutter,This project consist of two Screens. Home Screen and Detail Screen.
+Covid Store app UI using flutter,This project consist of two Screens. Home Screen and Product Detail Screen.
 
 ### :heart: Found this project useful?
 
