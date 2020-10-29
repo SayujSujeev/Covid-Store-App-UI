@@ -1,6 +1,6 @@
 # Covid Store App UI
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://www.youtube.com/watch?v=EIpZjlsLAa4)
 
 
 Covid Store app UI using flutter,This project consist of two Screens. Home Screen and Product Detail Screen.
